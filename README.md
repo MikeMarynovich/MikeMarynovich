@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Pixel Forest Banner" width="100%" />
 </p>
 
-# Hi, I'm Mike 👋
+# Hi, I'm Mike 
 
 **QA Engineer | Test Automation & Quality Assurance**  
-Based in Hollywood, FL 🌴 • Green Card Holder
+Based in Hollywood, FL  • Green Card Holder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitamarinovichh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://mikemarynovich.github.io/mike-marynovich-portfolio/)
