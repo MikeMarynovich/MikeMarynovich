@@ -8,7 +8,7 @@ Based in Hollywood, FL  • Green Card Holder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitamarinovichh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://mikemarynovich.github.io/mike-marynovich-portfolio/)
-[![Resume / CV](https://img.shields.io/badge/Resume%20%2F%20CV-0F172A?style=flat&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1WgrxQzGUszu7BLV5KgyDx36fXYsqkyiRwETtt792lEY/edit?tab=t.0)
+[![Resume / CV](https://img.shields.io/badge/Resume%20%2F%20CV-0F172A?style=flat&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1YaoxODpoMyZpk6SLz3QgihDwBkG8ND0eHV4IfWpOS_c/edit?tab=t.0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:qa.marinovich@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mikemarynovich/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/MikeMarynovich)
