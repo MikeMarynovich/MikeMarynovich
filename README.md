@@ -3,7 +3,7 @@
 
 # Hi, I'm Mike 
 
-**QA Engineer | Test Automation & Quality Assurance**  
+**QA Software Engineer | Test Automation & Quality Engineering**  
 Based in Hollywood, FL  • Green Card Holder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitamarinovichh/)
@@ -19,24 +19,24 @@ Based in Hollywood, FL  • Green Card Holder
 
 <img align="left" width="75" src="https://orhun.dev/img/crow.png" alt="Crow" style="margin-right: 15px; margin-bottom: 10px;" />
 
-I'm a QA Engineer with 4+ years of hands-on experience testing enterprise healthcare software, Layer-1 blockchain products, and fintech solutions. My main focus is test automation with **TypeScript + Playwright**, API testing, and improving release stability.
+I'm a QA Software Engineer with 4+ years of experience leading end-to-end quality engineering, CI/CD test automation, and test framework architecture across enterprise FinTech, Insurance, and blockchain platforms. My main focus is test automation with **TypeScript + Playwright**, API testing, and driving test efficiency with **Agentic AI**.
 
 <br clear="left" />
 
-- 💼 **Current role:** QA Engineer at **FJA-US**, leading testing for healthcare workflow software serving **115M+ covered members** across 8+ client releases.
-- ⚡ **Automation:** Writing regression suites in **TypeScript + Playwright** with **Cucumber BDD**, integrated into CI/CD pipelines to cut manual regression turnaround down to 1 day.
-- 🎯 **API Testing:** Automated REST/SOAP test suites in **Postman & JavaScript** (previously reached 95% endpoint coverage and cut critical defects by 40% at CrossFi).
-- 📱 **Mobile & Web:** Tested cross-platform flows on 10+ real iOS and Android devices using BrowserStack and Appium.
-- 👥 **Team & Process:** Managed and trained a QA team of 5, wrote 500+ test cases, and established test documentation standards in Jira, TestRail, and Qase.
-- 🤖 **AI in QA:** Practically using AI tools (Claude, Cursor) to speed up test authoring, edge case generation, and documentation.
+- 💼 **Current role:** QA Engineer at **FJA-US**, owning regression testing strategy across **10+ insurance releases** and compressing regression execution down to 1 day.
+- ⚡ **Automation:** Engineered a scalable E2E suite in **TypeScript + Playwright** with **Cucumber BDD**, reducing manual testing effort by 60% across enterprise client portals.
+- 🎯 **API Testing:** Automated REST API and gRPC suites in **Postman CLI & JavaScript**, reaching 95% endpoint coverage and cutting execution runtime by 20% at CrossFi.
+- 🔗 **Blockchain:** Authored EVM smart contracts and designed smart contract testing suites covering transactions, staking, and synthetic assets.
+- 👥 **Team & Process:** Hired, mentored, and managed a team of 5 QA engineers, accelerating release cycles by 30%; standardized test documentation in Qase and Confluence.
+- 🤖 **AI in QA:** Built Agentic AI testing workflows with **Claude** for autonomous edge-case generation and code verification.
 
 ---
 
 ### 📊 Highlights at a Glance
 
-| 🛡️ Healthcare QA | ⚡ Fast Regressions | 🎯 API Automation | 👥 QA Leadership |
+| 🔁 Fast Regressions | 🧪 E2E Automation | 🎯 API Automation | 👥 QA Leadership |
 | :---: | :---: | :---: | :---: |
-| **115M+ Members**<br/>Enterprise software tested | **1-Day Cycle Time**<br/>Automated CI/CD suites | **95% Endpoint Coverage**<br/>Postman & JavaScript | **Team of 5**<br/>QA engineers mentored |
+| **1-Day Cycle Time**<br/>10+ insurance releases | **60% Less Manual Effort**<br/>Playwright & Cucumber BDD | **95% Endpoint Coverage**<br/>Postman CLI & JavaScript | **Team of 5**<br/>QA engineers managed |
 
 ---
 
@@ -44,13 +44,13 @@ I'm a QA Engineer with 4+ years of hands-on experience testing enterprise health
 
 | Area | Tools & Technologies |
 |:---|:---|
-| **Test Automation** | Playwright, Cucumber BDD, Postman, Appium, Allure Report |
-| **Programming & Scripting** | TypeScript, JavaScript, SQL, Bash |
-| **APIs & Protocols** | REST APIs, SOAP, Postman (collections & scripting), Charles Proxy, Apache Kafka, JMeter |
-| **Test Management** | Jira, TestRail, Qase, Confluence, Azure DevOps (ADO) |
-| **CI/CD & Tools** | GitLab CI/CD, GitHub, Git, Chrome DevTools, BrowserStack |
-| **Databases** | MySQL, MongoDB |
-| **Methodologies** | Agile / Scrum, Functional Testing, Regression, Boundary Value Analysis |
+| **Testing Methodologies** | Agile/Scrum, SDLC/STLC, BDD (Cucumber/Gherkin), Data-Driven Testing, Regression, E2E, Contract Testing |
+| **Automation & Tools** | Playwright, Selenium, Postman, Postman CLI, Newman, RESTAssured, gRPC, GraphQL, Charles Proxy |
+| **Languages & Web Tech** | TypeScript, JavaScript, SQL, HTML5, CSS3, XML, JSON |
+| **CI/CD, DevOps & Cloud** | Jenkins, OpenShift, GitLab CI/CD, GitHub Actions |
+| **Databases & Storage** | PostgreSQL, Oracle, MySQL, Redis |
+| **Test Ops & Management** | Jira, TestRail, Qase, Confluence, VS Code, Cursor |
+| **AI Engineering** | Claude, Agentic AI Testing Workflows, LLM-Assisted Test Generation |
 
 ---
 
